@@ -1,0 +1,15 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: 1st person
+  1: 2nd person
+  2: 3rd person
+  3: Car
+  4: Dog
+  5: Empty chair
+  6: Flag
+  7: People
+  8: Person
+  9: Scooter front
